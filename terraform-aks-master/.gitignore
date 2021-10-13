@@ -1,0 +1,11 @@
+# Local .terraform directories
+**/.terraform/*
+*terraform.tfstate
+
+*.plan
+
+azurek8s
+
+helm-config.yaml
+
+terraform.tfvars
